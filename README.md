@@ -105,3 +105,8 @@ Byggt med vanilla HTML, CSS och JavaScript. Inga externa dependencies.
 ---
 
 **Utvecklat för Viking Line** | Scroll Position Testing | 2024
+
+---
+
+### 🔄 Auto-Deployment
+Detta projekt är kopplat till Vercel via Git-integration. Varje push till master triggar automatiskt en ny deployment.
