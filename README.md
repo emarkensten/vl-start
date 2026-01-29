@@ -60,7 +60,9 @@ Mockupen implementerar Viking Lines visuella identitet:
 
 Projektet är deployat på Vercel för att visa den verkliga användarupplevelsen över nätverk:
 
-[Live Demo URL här]
+**🚀 [https://vl-start.vercel.app](https://vl-start.vercel.app)**
+
+GitHub Repository: [https://github.com/emarkensten/vl-start](https://github.com/emarkensten/vl-start)
 
 ## Utveckling
 
